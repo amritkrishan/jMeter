@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testResults version="1.2">
+<httpSample t="181" lt="178" ts="1525759133476" s="true" lb="Open google.com" rc="200" rm="OK" tn="Sample Thread Group 1-1" dt="text" by="13598"/>
+
+<httpSample t="174" lt="171" ts="1525759389653" s="true" lb="Open google.com" rc="200" rm="OK" tn="Sample Thread Group 1-1" dt="text" by="13589"/>
+
+<httpSample t="163" lt="162" ts="1525762202487" s="true" lb="Open google.com" rc="200" rm="OK" tn="Sample Thread Group 1-1" dt="text" by="13603"/>
+
+</testResults>
